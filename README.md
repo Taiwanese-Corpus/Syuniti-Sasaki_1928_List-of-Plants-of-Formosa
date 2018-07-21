@@ -1,5 +1,4 @@
-# Syuniti-Sasaki_1928_List-of-Plants-of-Formosa
- 台灣植物名彙(List of Plants of Formosa) 佐佐木舜一 1928 
+# 台灣植物名彙(List of Plants of Formosa) 佐佐木舜一（Syuniti-Sasaki） 1928 
 [![Build Status](https://travis-ci.org/Taiwanese-Corpus/Syuniti-Sasaki_1928_List-of-Plants-of-Formosa.svg?branch=master)](https://travis-ci.org/Taiwanese-Corpus/Syuniti-Sasaki_1928_List-of-Plants-of-Formosa)
 
 ## 原網站鏡像指令
