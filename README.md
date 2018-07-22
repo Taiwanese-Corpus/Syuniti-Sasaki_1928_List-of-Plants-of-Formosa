@@ -15,5 +15,6 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
 ## 原網站鏡像指令
 ```
 wget -r -l inf --page-requisites --no-parent --convert-links --adjust-extension  --reject='mowt.asp','Tgb.asp' http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=59
+rename 's/_.*_/_頁面_/g' ip194097.ntcu.edu.tw/memory/TGB/data/TOSBBL/*
 ```
 鏡像站：[gh-pages](https://taiwanese-corpus.github.io/Syuniti-Sasaki_1928_List-of-Plants-of-Formosa/memory/TGB/thak.asp%3Fid=59.html)
